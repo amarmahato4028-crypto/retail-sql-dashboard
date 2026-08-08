@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,city,state,signup_date
+1,Maria,Kumar,maria.kumar1@example.com,Austin,TX,2024-05-16
+2,Sofia,Patel,sofia.patel2@example.com,Charlotte,NC,2023-06-28
+3,Mei,Davis,mei.davis3@example.com,High Point,NC,2023-03-03
+4,James,Khan,james.khan4@example.com,Atlanta,GA,2025-10-31
+5,Lucas,Kumar,lucas.kumar5@example.com,Boston,MA,2024-02-12
+6,Daniel,Davis,daniel.davis6@example.com,Atlanta,GA,2025-07-08
+7,Mei,Silva,mei.silva7@example.com,High Point,NC,2023-11-23
+8,Yuki,Brown,yuki.brown8@example.com,Austin,TX,2023-11-15
+9,Liam,Brown,liam.brown9@example.com,Charlotte,NC,2023-07-09
+10,Carlos,Chen,carlos.chen10@example.com,Denver,CO,2024-12-05
+11,Lucas,Silva,lucas.silva11@example.com,High Point,NC,2025-07-29
+12,Daniel,Chen,daniel.chen12@example.com,Seattle,WA,2023-06-11
+13,Daniel,Nguyen,daniel.nguyen13@example.com,Phoenix,AZ,2025-01-10
+14,Mei,Khan,mei.khan14@example.com,Charlotte,NC,2023-04-04
+15,Sofia,Nguyen,sofia.nguyen15@example.com,Charlotte,NC,2024-04-21
+16,Maria,Kim,maria.kim16@example.com,Austin,TX,2025-07-17
+17,Aisha,Johnson,aisha.johnson17@example.com,Denver,CO,2024-12-28
+18,Liam,Silva,liam.silva18@example.com,Charlotte,NC,2023-12-17
+19,Daniel,Rossi,daniel.rossi19@example.com,Raleigh,NC,2025-08-04
+20,Carlos,Silva,carlos.silva20@example.com,Boston,MA,2024-03-25
+21,Noah,Smith,noah.smith21@example.com,Atlanta,GA,2023-03-07
+22,Noah,Kim,noah.kim22@example.com,Austin,TX,2023-05-16
+23,Liam,Taylor,liam.taylor23@example.com,Denver,CO,2024-03-11
+24,Ethan,Kim,ethan.kim24@example.com,Chicago,IL,2023-10-20
+25,Ravi,Patel,ravi.patel25@example.com,Atlanta,GA,2024-06-22
+26,Mei,Davis,mei.davis26@example.com,Phoenix,AZ,2025-03-28
+27,Aisha,Rossi,aisha.rossi27@example.com,Raleigh,NC,2025-11-09
+28,Ethan,Garcia,ethan.garcia28@example.com,High Point,NC,2023-08-13
+29,Wei,Johnson,wei.johnson29@example.com,Seattle,WA,2023-05-11
+30,Carlos,Kim,carlos.kim30@example.com,Phoenix,AZ,2025-08-16
+31,Zara,Silva,zara.silva31@example.com,Boston,MA,2023-01-24
+32,Maria,Wang,maria.wang32@example.com,Austin,TX,2024-11-27
+33,Maria,Nguyen,maria.nguyen33@example.com,Seattle,WA,2023-11-20
+34,Olivia,Kumar,olivia.kumar34@example.com,Austin,TX,2025-10-22
+35,Fatima,Lopez,fatima.lopez35@example.com,Charlotte,NC,2024-09-03
+36,Zara,Mahato,zara.mahato36@example.com,Atlanta,GA,2023-11-10
+37,Aisha,Johnson,aisha.johnson37@example.com,Boston,MA,2025-12-22
+38,Amar,Mahato,amar.mahato38@example.com,Denver,CO,2025-09-27
+39,Amar,Chen,amar.chen39@example.com,Denver,CO,2024-09-21
+40,Sofia,Smith,sofia.smith40@example.com,Atlanta,GA,2023-06-11
+41,James,Martin,james.martin41@example.com,Charlotte,NC,2025-12-26
+42,Wei,Patel,wei.patel42@example.com,Chicago,IL,2023-12-05
+43,Ravi,Lopez,ravi.lopez43@example.com,Phoenix,AZ,2025-05-16
+44,Liam,Wang,liam.wang44@example.com,Atlanta,GA,2024-09-30
+45,Carlos,Ali,carlos.ali45@example.com,Chicago,IL,2025-11-25
+46,Olivia,Chen,olivia.chen46@example.com,Atlanta,GA,2024-04-05
+47,James,Brown,james.brown47@example.com,High Point,NC,2024-04-16
+48,Mei,Rossi,mei.rossi48@example.com,High Point,NC,2023-05-26
+49,Priya,Rossi,priya.rossi49@example.com,Charlotte,NC,2023-03-06
+50,Noah,Garcia,noah.garcia50@example.com,Boston,MA,2024-05-02
+51,Ravi,Martin,ravi.martin51@example.com,Atlanta,GA,2023-09-28
+52,Mei,Taylor,mei.taylor52@example.com,Chicago,IL,2024-05-12
+53,Ethan,Davis,ethan.davis53@example.com,Atlanta,GA,2023-07-13
+54,Maria,Davis,maria.davis54@example.com,Denver,CO,2025-05-17
+55,Yuki,Singh,yuki.singh55@example.com,High Point,NC,2023-07-21
+56,Priya,Kim,priya.kim56@example.com,Denver,CO,2023-08-12
+57,Sofia,Khan,sofia.khan57@example.com,Atlanta,GA,2025-07-07
+58,Wei,Davis,wei.davis58@example.com,Raleigh,NC,2024-07-24
+59,Olivia,Rossi,olivia.rossi59@example.com,Charlotte,NC,2025-06-26
+60,Daniel,Chen,daniel.chen60@example.com,High Point,NC,2023-01-31
+61,James,Rossi,james.rossi61@example.com,Raleigh,NC,2025-04-12
+62,Ethan,Martin,ethan.martin62@example.com,Atlanta,GA,2025-04-01
+63,Priya,Johnson,priya.johnson63@example.com,Seattle,WA,2023-01-05
+64,Carlos,Silva,carlos.silva64@example.com,Chicago,IL,2024-08-07
+65,Yuki,Wang,yuki.wang65@example.com,Chicago,IL,2023-11-14
+66,Liam,Nguyen,liam.nguyen66@example.com,Atlanta,GA,2023-04-30
+67,Mei,Wang,mei.wang67@example.com,High Point,NC,2024-10-04
+68,Priya,Smith,priya.smith68@example.com,Phoenix,AZ,2025-09-03
+69,Zara,Lopez,zara.lopez69@example.com,Raleigh,NC,2023-04-27
+70,Zara,Garcia,zara.garcia70@example.com,Raleigh,NC,2023-05-21
+71,Lucas,Garcia,lucas.garcia71@example.com,Atlanta,GA,2025-04-06
+72,Maria,Taylor,maria.taylor72@example.com,Atlanta,GA,2023-03-23
+73,Lucas,Garcia,lucas.garcia73@example.com,Seattle,WA,2025-12-06
+74,Noah,Silva,noah.silva74@example.com,Atlanta,GA,2024-10-05
+75,Sofia,Silva,sofia.silva75@example.com,Seattle,WA,2023-09-26
+76,Emma,Singh,emma.singh76@example.com,Denver,CO,2023-05-29
+77,Amar,Singh,amar.singh77@example.com,Phoenix,AZ,2023-07-24
+78,James,Wang,james.wang78@example.com,Atlanta,GA,2025-11-02
+79,Ravi,Patel,ravi.patel79@example.com,Denver,CO,2023-05-21
+80,Sofia,Ali,sofia.ali80@example.com,Austin,TX,2023-11-20
+81,Olivia,Wang,olivia.wang81@example.com,Austin,TX,2025-12-19
+82,Amar,Wang,amar.wang82@example.com,Austin,TX,2023-08-01
+83,Wei,Silva,wei.silva83@example.com,Charlotte,NC,2023-08-08
+84,Daniel,Patel,daniel.patel84@example.com,Austin,TX,2024-07-31
+85,Lucas,Khan,lucas.khan85@example.com,Denver,CO,2024-02-21
+86,Ravi,Lopez,ravi.lopez86@example.com,Chicago,IL,2024-05-29
+87,Priya,Garcia,priya.garcia87@example.com,Seattle,WA,2024-07-20
+88,Priya,Kumar,priya.kumar88@example.com,Denver,CO,2023-09-25
+89,Ravi,Johnson,ravi.johnson89@example.com,Chicago,IL,2025-05-25
+90,Daniel,Kumar,daniel.kumar90@example.com,Charlotte,NC,2023-06-04
+91,Wei,Wang,wei.wang91@example.com,High Point,NC,2025-01-26
+92,Mei,Wang,mei.wang92@example.com,Raleigh,NC,2025-05-30
+93,Wei,Smith,wei.smith93@example.com,Austin,TX,2025-01-16
+94,Priya,Ali,priya.ali94@example.com,Atlanta,GA,2024-05-26
+95,Maria,Ali,maria.ali95@example.com,Boston,MA,2025-04-12
+96,Lucas,Patel,lucas.patel96@example.com,Atlanta,GA,2023-11-29
+97,Fatima,Davis,fatima.davis97@example.com,High Point,NC,2024-01-03
+98,Noah,Davis,noah.davis98@example.com,Atlanta,GA,2024-06-30
+99,Fatima,Chen,fatima.chen99@example.com,Seattle,WA,2023-03-21
+100,Ethan,Rossi,ethan.rossi100@example.com,Atlanta,GA,2025-07-31
+101,Aisha,Nguyen,aisha.nguyen101@example.com,Atlanta,GA,2024-04-01
+102,Amar,Khan,amar.khan102@example.com,Seattle,WA,2024-11-03
+103,Ravi,Garcia,ravi.garcia103@example.com,Austin,TX,2024-12-20
+104,Zara,Kim,zara.kim104@example.com,Boston,MA,2024-11-09
+105,Amar,Chen,amar.chen105@example.com,Austin,TX,2024-01-01
+106,Mei,Silva,mei.silva106@example.com,High Point,NC,2023-08-11
+107,Lucas,Davis,lucas.davis107@example.com,Denver,CO,2024-10-04
+108,Yuki,Mahato,yuki.mahato108@example.com,Boston,MA,2023-08-25
+109,Carlos,Taylor,carlos.taylor109@example.com,Atlanta,GA,2024-06-05
+110,Priya,Davis,priya.davis110@example.com,High Point,NC,2025-11-30
+111,Daniel,Khan,daniel.khan111@example.com,Denver,CO,2025-06-02
+112,James,Brown,james.brown112@example.com,Phoenix,AZ,2024-10-04
+113,Maria,Nguyen,maria.nguyen113@example.com,Boston,MA,2024-09-25
+114,Yuki,Brown,yuki.brown114@example.com,Seattle,WA,2024-08-28
+115,Daniel,Patel,daniel.patel115@example.com,Atlanta,GA,2025-05-11
+116,Carlos,Johnson,carlos.johnson116@example.com,Phoenix,AZ,2024-09-08
+117,Carlos,Wang,carlos.wang117@example.com,High Point,NC,2024-09-14
+118,Emma,Khan,emma.khan118@example.com,Seattle,WA,2024-10-21
+119,Olivia,Singh,olivia.singh119@example.com,Chicago,IL,2024-03-13
+120,Zara,Martin,zara.martin120@example.com,Raleigh,NC,2023-06-23
+121,Emma,Lopez,emma.lopez121@example.com,Phoenix,AZ,2024-11-17
+122,James,Rossi,james.rossi122@example.com,Austin,TX,2024-04-05
+123,Liam,Patel,liam.patel123@example.com,High Point,NC,2023-04-05
+124,Sofia,Martin,sofia.martin124@example.com,Phoenix,AZ,2023-05-30
+125,Olivia,Davis,olivia.davis125@example.com,Phoenix,AZ,2024-02-03
+126,Carlos,Martin,carlos.martin126@example.com,Seattle,WA,2024-05-14
+127,Wei,Kumar,wei.kumar127@example.com,Charlotte,NC,2025-05-20
+128,Sofia,Johnson,sofia.johnson128@example.com,Boston,MA,2025-08-09
+129,Priya,Wang,priya.wang129@example.com,Atlanta,GA,2023-09-06
+130,Olivia,Patel,olivia.patel130@example.com,Chicago,IL,2025-12-23
+131,Daniel,Mahato,daniel.mahato131@example.com,Denver,CO,2025-06-25
+132,Lucas,Lopez,lucas.lopez132@example.com,Seattle,WA,2025-07-02
+133,Fatima,Martin,fatima.martin133@example.com,Chicago,IL,2024-06-14
+134,Sofia,Silva,sofia.silva134@example.com,Boston,MA,2025-09-19
+135,Sofia,Silva,sofia.silva135@example.com,Chicago,IL,2023-06-08
+136,Emma,Rossi,emma.rossi136@example.com,Austin,TX,2024-11-18
+137,Noah,Wang,noah.wang137@example.com,Charlotte,NC,2023-10-11
+138,Wei,Rossi,wei.rossi138@example.com,Seattle,WA,2023-11-09
+139,Liam,Garcia,liam.garcia139@example.com,Seattle,WA,2025-04-14
+140,Noah,Wang,noah.wang140@example.com,Chicago,IL,2025-05-01
+141,Priya,Khan,priya.khan141@example.com,Seattle,WA,2025-03-08
+142,Mei,Kumar,mei.kumar142@example.com,Phoenix,AZ,2025-02-18
+143,Ethan,Kumar,ethan.kumar143@example.com,Denver,CO,2024-09-03
+144,Carlos,Davis,carlos.davis144@example.com,Boston,MA,2024-03-27
+145,Ethan,Rossi,ethan.rossi145@example.com,Austin,TX,2025-06-11
+146,Ethan,Kumar,ethan.kumar146@example.com,Seattle,WA,2024-11-19
+147,Carlos,Johnson,carlos.johnson147@example.com,Chicago,IL,2023-09-19
+148,Lucas,Wang,lucas.wang148@example.com,High Point,NC,2025-03-17
+149,Mei,Taylor,mei.taylor149@example.com,High Point,NC,2023-06-21
+150,Yuki,Patel,yuki.patel150@example.com,Chicago,IL,2024-01-08
+151,Priya,Silva,priya.silva151@example.com,Seattle,WA,2024-11-01
+152,Liam,Singh,liam.singh152@example.com,Denver,CO,2024-11-22
+153,Carlos,Silva,carlos.silva153@example.com,Seattle,WA,2024-05-31
+154,James,Martin,james.martin154@example.com,High Point,NC,2023-04-17
+155,Aisha,Rossi,aisha.rossi155@example.com,Charlotte,NC,2023-03-24
+156,Amar,Rossi,amar.rossi156@example.com,Atlanta,GA,2023-02-11
+157,Lucas,Patel,lucas.patel157@example.com,Atlanta,GA,2023-09-16
+158,Ethan,Chen,ethan.chen158@example.com,Phoenix,AZ,2024-03-22
+159,Olivia,Silva,olivia.silva159@example.com,Denver,CO,2023-12-10
+160,Lucas,Mahato,lucas.mahato160@example.com,Charlotte,NC,2023-12-02
+161,Emma,Chen,emma.chen161@example.com,Phoenix,AZ,2023-02-22
+162,Emma,Taylor,emma.taylor162@example.com,Seattle,WA,2025-03-23
+163,Liam,Garcia,liam.garcia163@example.com,Phoenix,AZ,2024-05-12
+164,Maria,Nguyen,maria.nguyen164@example.com,Phoenix,AZ,2023-09-05
+165,Mei,Smith,mei.smith165@example.com,Denver,CO,2025-12-27
+166,Yuki,Ali,yuki.ali166@example.com,Charlotte,NC,2025-11-02
+167,Noah,Kumar,noah.kumar167@example.com,Seattle,WA,2025-09-30
+168,Maria,Davis,maria.davis168@example.com,Denver,CO,2025-07-30
+169,Wei,Davis,wei.davis169@example.com,Raleigh,NC,2025-12-04
+170,Ravi,Mahato,ravi.mahato170@example.com,Boston,MA,2025-09-17
+171,Olivia,Davis,olivia.davis171@example.com,Phoenix,AZ,2024-07-03
+172,Noah,Rossi,noah.rossi172@example.com,Charlotte,NC,2024-07-25
+173,Olivia,Rossi,olivia.rossi173@example.com,Chicago,IL,2025-02-15
+174,Noah,Kumar,noah.kumar174@example.com,Chicago,IL,2024-10-27
+175,Fatima,Martin,fatima.martin175@example.com,Atlanta,GA,2024-12-27
+176,Ravi,Brown,ravi.brown176@example.com,Austin,TX,2024-07-19
+177,Daniel,Kumar,daniel.kumar177@example.com,Boston,MA,2024-01-27
+178,James,Rossi,james.rossi178@example.com,Seattle,WA,2025-09-27
+179,Daniel,Rossi,daniel.rossi179@example.com,Chicago,IL,2025-10-02
+180,Olivia,Kumar,olivia.kumar180@example.com,Charlotte,NC,2024-08-25
+181,Sofia,Kim,sofia.kim181@example.com,Atlanta,GA,2024-09-19
+182,Mei,Ali,mei.ali182@example.com,Chicago,IL,2025-12-23
+183,Aisha,Davis,aisha.davis183@example.com,Boston,MA,2024-11-08
+184,Aisha,Singh,aisha.singh184@example.com,Austin,TX,2024-09-19
+185,Ravi,Rossi,ravi.rossi185@example.com,Charlotte,NC,2024-01-30
+186,Noah,Chen,noah.chen186@example.com,Boston,MA,2024-01-15
+187,Liam,Khan,liam.khan187@example.com,Chicago,IL,2024-07-20
+188,Mei,Lopez,mei.lopez188@example.com,Phoenix,AZ,2024-08-02
+189,Maria,Khan,maria.khan189@example.com,Austin,TX,2024-04-10
+190,Aisha,Johnson,aisha.johnson190@example.com,Austin,TX,2023-01-29
+191,Daniel,Patel,daniel.patel191@example.com,Austin,TX,2023-04-04
+192,Priya,Wang,priya.wang192@example.com,Austin,TX,2023-09-16
+193,Ethan,Chen,ethan.chen193@example.com,High Point,NC,2024-08-05
+194,Ethan,Martin,ethan.martin194@example.com,Chicago,IL,2024-11-28
+195,Fatima,Smith,fatima.smith195@example.com,Austin,TX,2025-09-05
+196,Maria,Garcia,maria.garcia196@example.com,Seattle,WA,2025-10-04
+197,James,Taylor,james.taylor197@example.com,High Point,NC,2023-11-07
+198,Wei,Taylor,wei.taylor198@example.com,Austin,TX,2023-06-24
+199,Sofia,Chen,sofia.chen199@example.com,Boston,MA,2025-05-02
+200,Lucas,Mahato,lucas.mahato200@example.com,Phoenix,AZ,2024-04-07
